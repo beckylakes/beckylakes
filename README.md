@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there! 👋  I'm Becky</h1>
+<h1 align='center'>Hello there 👋, I'm Becky! I'm looking for job opportunities to officially kickstart my career in coding 🚀 </h1>
 
 <br/>
 
@@ -11,10 +11,12 @@
 ## 👨‍💻 About Me:
 Dedicated and passionate Junior Software Engineer with a diverse and international background, recently made a career change into the tech industry and I am eager to leverage my skillset to develop products and solutions that bring positive impact to people on a wide scale.
 
-- 👨‍🎓 Northcoders Graduate (January 2024 - April 2024)
-- 🌏 Previously worked in Japan 🗾 for 4 years in Education, Recruitment Consulting and Translation
-- 💭 Passion for learning new technologies and skills, currently learning more about TypeScript & Python
-- 🌟 Hobbies: Keeping up with latest news/trends in the world 📷, Travelling & learning new cultures/lanugages 📚, Gaming 🎮, Music
+- 👩‍🎓 Northcoders Graduate (January 2024 - April 2024)
+- 🙆‍♀️ Pronouns: she/her
+- 🗾 Lived and worked in Japan for 4 years in Education, Recruitment Consulting and Translation
+- 📖 Passion for learning new technologies and skills, currently learning more about TypeScript & Python
+- 💛 Hobbies: Keeping up with latest news/trends in the world 📷, Travelling & learning new cultures/lanugages 📚, Gaming 🎮, Music
+- 🔭 I’m currently working freelance to create an events & community platform!
 
 ## 🛠️ Languages and Tools:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
