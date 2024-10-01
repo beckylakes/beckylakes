@@ -8,6 +8,30 @@
   <a href='https://github.com/beckylakes/CV'><img src='https://img.shields.io/badge/GitHubCV-100000?style=for-the-badge&logo=github&logoColor=white'/></a>
 </div>
 
+## 👨‍💻 About Me:
+Dedicated and passionate Junior Software Engineer with a diverse and international background, recently made a career change into the tech industry and I am eager to leverage my skillset to develop products and solutions that bring positive impact to people on a wide scale.
+
+- 👨‍🎓 Northcoders Graduate (January 2024 - April 2024)
+- 🌏 Previously worked in Japan 🗾 for 4 years in Education, Recruitment Consulting and Translation
+- 💭 Passion for learning new technologies and skills, currently learning more about TypeScript & Python
+- 🌟 Hobbies: Keeping up with latest news/trends in the world 📷, Travelling & learning new cultures/lanugages 📚, Gaming 🎮, Music
+
+## 🛠️ Languages and Tools:
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 💻 Projects
+
+
 <!--
 **beckylakes/beckylakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
