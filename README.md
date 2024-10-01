@@ -39,9 +39,9 @@ Enthusiastic Junior Software Engineer with a vibrant international background, r
 
 | Name            | Description                             | Tech Stack          |
 | --------------- | --------------------------------------- | ------------------- |
-| [**NC News Backend**](https://github.com/beckylakes/be-nc-news)     | Message Board Platform  | (PostgreSQL, Express, React, Node)
-| [**LEAP**](https://github.com/swlho/leap-fe)     | AI-powered Learning Platform  | (Python, TypeScript, MongoDB, Next.js, FastAPI)         |
-| [**Eventure**](https://github.com/beckylakes/lp-events-platform)    | Event & Community Platform | (JavaScript, React, Express, MongoDB)
+| NC News[**Backend**](https://github.com/beckylakes/be-nc-news)     | Message Board Platform  | PostgreSQL, Express, React, Node
+| [**LEAP**](https://github.com/swlho/leap-fe)     | AI-powered Learning Platform  | Python, TypeScript, MongoDB, Next.js, FastAPI         |
+| [**Eventure**](https://github.com/beckylakes/lp-events-platform)    | Event & Community Platform | JavaScript, React, Express, MongoDB
 
 <!--
 **beckylakes/beckylakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
