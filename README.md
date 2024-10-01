@@ -1,6 +1,9 @@
 <h1 align='center'>Hello there 👋, I'm Becky! I'm looking for job opportunities to officially kickstart my career in coding 🚀 </h1>
 
 <br/>
+<div align='center'>
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt='Avatar' width="400" />
+</div>
 
 <div align='center'>
   <a href='mailto:beckylake96@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
