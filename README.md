@@ -9,7 +9,7 @@
 </div>
 
 ## 👩‍💻 About Me:
-Dedicated and passionate Junior Software Engineer with a diverse and international background, recently made a career change into the tech industry and I am eager to leverage my skillset to develop products and solutions that bring positive impact to people on a wide scale.
+Enthusiastic Junior Software Engineer with a vibrant international background, recently diving headfirst into the tech world to chase my passion for coding! I’m excited to use my skills to create innovative products that make a real difference in people's lives, one line of code at a time. Ready to commit to meaningful projects—both on GitHub and beyond! (P.S. Sorry, not sorry for the puns!)
 
 - 👩‍🎓 Northcoders Graduate (January 2024 - April 2024)
 - 🙆‍♀️ Pronouns: she/her
