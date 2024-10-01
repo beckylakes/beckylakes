@@ -17,6 +17,7 @@ Dedicated and passionate Junior Software Engineer with a diverse and internation
 - 📖 Passion for learning new technologies and skills, currently learning more about TypeScript & Python
 - 💛 Hobbies: Keeping up with latest news/trends in the world 📷, Travelling & learning new cultures/lanugages 📚, Gaming 🎮, Music
 - 🔭 I’m currently working freelance to create an events & community platform!
+- ⚡ Fun fact: I share the same MBTI (16 personalities quiz for those who don't know!) with Jon Snow, Galadriel and Matthew Murdock 😳
 
 ## 🛠️ Languages and Tools:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
