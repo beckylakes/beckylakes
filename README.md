@@ -8,7 +8,7 @@
   <a href='https://github.com/beckylakes/CV'><img src='https://img.shields.io/badge/GitHubCV-100000?style=for-the-badge&logo=github&logoColor=white'/></a>
 </div>
 
-## 👨‍💻 About Me:
+## 👩‍💻 About Me:
 Dedicated and passionate Junior Software Engineer with a diverse and international background, recently made a career change into the tech industry and I am eager to leverage my skillset to develop products and solutions that bring positive impact to people on a wide scale.
 
 - 👩‍🎓 Northcoders Graduate (January 2024 - April 2024)
