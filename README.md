@@ -42,6 +42,7 @@ Enthusiastic Junior Software Engineer with a vibrant international background, r
 | NC News [**Backend**](https://github.com/beckylakes/be-nc-news) & [**Frontend**](https://github.com/beckylakes/fe-nc-news)     | Message Board Platform  | PostgreSQL, Express, React, Node
 | LEAP [**Backend**](https://github.com/jamie-appleyard/leap-backend) & [**Frontend**](https://github.com/swlho/leap-fe)     | AI-powered Learning Platform  | Python, TypeScript, MongoDB, Next.js, FastAPI         |
 | [**Eventure**](https://github.com/beckylakes/lp-events-platform)    | Event & Community Platform | JavaScript, React, Express, MongoDB
+| [**Portfolio Wesbite**](https://github.com/beckylakes/portfolio)    | SPA Portfolio Website | React.js
 
 <!--
 **beckylakes/beckylakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
