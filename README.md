@@ -36,6 +36,7 @@ Enthusiastic Junior Software Engineer with a vibrant international background, r
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=beckylakes&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beckylakes&theme=tokyonight)
 
 ## 💻 Projects
 
