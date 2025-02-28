@@ -37,7 +37,7 @@ Enthusiastic Junior Software Engineer with a vibrant international background, r
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beckylakes&show_icons=true" alt="Becky's GitHub stats" />
-  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckylakes&theme=tokyonight" alt="Top Langs" />
 </div>
 
