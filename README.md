@@ -1,8 +1,8 @@
-<h1 align='center'>Hello there 👋, I'm Becky! I'm looking for job opportunities to officially kickstart my career in coding 🚀 </h1>
+<h1 align='center'>Hello there 👋, I'm Becky! A Software Developer based in London 🚀 </h1>
 
 <br/>
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt='Avatar' width="400" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3OTA2MzIsIm5iZiI6MTc0MTc5MDMzMiwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDE0Mzg1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkYTBmOTYyMGQyM2Q4ZWI0MTI0OTgxMDZmM2MwYTkzNmYzZTIwZDExZTM0ODk0YzE3MmY1YzUyZDhmNjQ0ODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.f_maMrevAV6OsFW-_yOxX2R9eNZN1LXe0fih1X_VuhA" alt='Avatar' width="400" />
 </div>
 
 <div align='center'>
