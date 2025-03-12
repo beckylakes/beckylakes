@@ -1,4 +1,4 @@
-<h1 align='center'>Hello there 👋, I'm Becky! A Software Developer based in London 🚀 </h1>
+<h1 align='left'>Hello there 👋, I'm Becky! A Software Developer based in London. </h1>
 
 <br/>
 <div align='center'>
