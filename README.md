@@ -12,15 +12,15 @@
 </div>
 
 ## 👩‍💻 About Me:
-Enthusiastic Junior Software Engineer with a vibrant international background, recently diving headfirst into the tech world to chase my passion for coding! I’m excited to use my skills to create innovative products that make a real difference in people's lives, one line of code at a time. Ready to commit to meaningful projects—both on GitHub and beyond! (P.S. Sorry, not sorry for the puns!)
+London-based passionate Software Developer with a vibrant professional and international background, actively seeking an opportunity in the tech sphere. I’m excited to use my skills to create innovative products that make a real impact in people's lives, one line of code at a time. Ready to commit to meaningful projects - both on GitHub and beyond!
 
+- 🔭 I’m currently working as a freelancer to produce full-stack web applications
 - 👩‍🎓 Northcoders Graduate (January 2024 - April 2024)
 - 🙆‍♀️ Pronouns: she/her
-- 🗾 Lived and worked in Japan for 4 years in Education, Recruitment Consulting and Translation
-- 📖 Passion for learning new technologies and skills, currently learning more about TypeScript & Python
-- 💛 Hobbies: Keeping up with latest news/trends in the world 📷, Travelling & learning new cultures/lanugages 📚, Gaming 🎮, Music
-- 🔭 I’m currently working freelance to create an events & community platform!
-- ⚡ Fun fact: I share the same MBTI (16 personalities quiz for those who don't know!) with Jon Snow, Galadriel and Matthew Murdock 😳
+- 🗾 Lived and worked in Japan for 4 years in IT Recruitment Consulting, Education, Sales and Translation
+- 📖 Passion for learning new technologies and skills, currently learning more about Next.js and Supabase
+- 💛 Hobbies: Keeping up with latest developments in the tech industry, engaging in continual learning for coding & foreign lanugages 📚, Gaming 🎮, Music
+- ⚡ Fun fact: I can speak, read and write business Japanese and was born in Zimbabwe
 
 ## 🛠️ Languages and Tools:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
